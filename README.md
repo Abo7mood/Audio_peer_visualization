@@ -40,6 +40,7 @@ Welcome to the **Audio Peer Visualization** project. This advanced **3D visualiz
 This project was developed for a **client** who required a sophisticated and interactive system to **visualize audio data dynamically in real-time**. The primary goal was to create an innovative, **non-gaming experience** that blended both **artistic and technical** elements.
 
 Despite the **tight deadlines and complex requirements**, the project was successfully delivered, exceeding the client’s expectations. It set a new benchmark for **audio-driven visualizations**, showcasing the potential of **real-time sound-reactive 3D environments**.
+## status: done 🟢
 
 # عرض البيانات الصوتية 🎵
 --------------------------
@@ -83,4 +84,5 @@ Despite the **tight deadlines and complex requirements**, the project was succes
 تم تطوير هذا المشروع لأحد **العملاء** الذين احتاجوا إلى نظام متطور وتفاعلي **لعرض البيانات الصوتية في الوقت الفعلي**. كان الهدف الأساسي هو تقديم تجربة **غير تقليدية** تجمع بين **العناصر الفنية والتقنية**.
 
 بالرغم من **ضيق الوقت وتعقيد المتطلبات**، تم تنفيذ المشروع بنجاح، متجاوزًا توقعات العميل. لقد وضع معيارًا جديدًا في **عالم التصوير الصوتي التفاعلي**، وأظهر الإمكانيات الكبيرة لأنظمة **الاستجابة الفورية للصوت في البيئات ثلاثية الأبعاد**.
+## الحالة : تم الإنتهاء 🟢
 
